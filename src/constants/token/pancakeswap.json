@@ -13,8 +13,8 @@
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-      "chainId": 56,
+      "address": "0xd192334dbb4817BC5915D823C4f15e13e0490339",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
@@ -29,8 +29,8 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "chainId": 56,
+      "address": "0xE46Eb4e1a1B01979cbaC6C73f958dD8282d62996",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
@@ -69,8 +69,8 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x55d398326f99059ff775485246999027b3197955",
-      "chainId": 56,
+      "address": "0xE46Eb4e1a1B01979cbaC6C73f958dD8282d62996",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
     },
